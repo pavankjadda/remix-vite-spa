@@ -13,7 +13,7 @@ export default function Index() {
 					<a href="/about">About</a>
 				</li>
 				<li>
-					<a href="/protocol">View Protocol</a>
+					<a href="/app/routes/protocol._index">View Protocol</a>
 				</li>
 			</ul>
 		</div>

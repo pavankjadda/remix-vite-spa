@@ -5,7 +5,7 @@ export default function Protocol_index() {
 
 			<ul>
 				<li>
-					<a href="/">Home</a>
+					<a href="/public">Home</a>
 				</li>
 				<li>
 					<a href="/protocol/1">Protocol: 1</a>
